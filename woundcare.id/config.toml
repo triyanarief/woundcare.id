@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "WOUNDCARE | Your Partner Woundcare Provider"
+theme = "gohugo-theme-ananke"
